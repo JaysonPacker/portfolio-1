@@ -351,6 +351,9 @@ display: flex;
     border-color: rgb(163, 163, 163);
   }
   
+  .btn-alt{
+    display: none;
+  }
   /* CONTACT */
 
 #contact {
