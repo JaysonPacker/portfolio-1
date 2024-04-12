@@ -326,7 +326,7 @@ display: flex;
   }
   
   /* PROJECTS SECTION */
-  #projects {
+  #projects, #designs {
     position: relative;
   }
   
@@ -404,3 +404,7 @@ footer {
   footer p {
     text-align: center;
   }
+
+#designs img{
+  border-radius: 0;
+}
